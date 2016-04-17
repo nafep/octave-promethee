@@ -11,7 +11,7 @@ This repository gathers octave/matlab functions I have developed during my resea
 
 #### Content
 
-Currently, all functions are gathered in one folder. I intend to structure the content in a more convenient way. In the meantime, you will find below the main functions.
+Currently, all functions are gathered in the `/src` folder. I intend to structure the content in a more convenient way. In the meantime, you will find below the main functions.
 
 | File | Description |
 |:---|:---|
