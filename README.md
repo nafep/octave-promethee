@@ -6,7 +6,7 @@ PROMETHEE II related octave/matlab functions
 PROMETHEE II is a widely used (outranking) method used in the context of multi-criteria decision aid (MCDA). 
 Please refer to the [Wikipedia](https://en.wikipedia.org/wiki/Preference_ranking_organization_method_for_enrichment_evaluation) page for an introduction and some references to the method.
 
-This repository gathers octave/matlab functions I have developed during my research work. If you're interested in this research, please have a look at my [This work has not been published as such, but is already presented in my [thesis](that.ulb.ac.be/dspace/bitstream/2013/209033/1/283816bc-c6ba-43b2-8d4c-10360bbe6909.txt).
+This repository gathers octave/matlab functions I have developed during my research work. If you're interested in this research, please have a look at my  [thesis](that.ulb.ac.be/dspace/bitstream/2013/209033/1/283816bc-c6ba-43b2-8d4c-10360bbe6909.txt).
 
 
 #### Content
